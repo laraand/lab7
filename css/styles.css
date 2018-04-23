@@ -1,0 +1,35 @@
+#won,#lost {
+    display: none;
+}
+#man{
+    margin: 20px auto;
+    width:600px;
+    height: 600px;
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+#word{
+    font-size: 1.8em;
+}
+.hintBtn{
+    padding:7px 7px !important;
+    margin: 0px 2px;
+}
+.btn{
+    padding:7px 7px !important;
+    margin: 0px 2px;
+}
+.lblUsed{
+    display: inline-block;
+    text-align-last: center;
+    font-size:  14pt;
+    width: 24px;
+    height: 24px;
+    padding:2px;
+    margin: 3px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: white 1px dotted;
+}
